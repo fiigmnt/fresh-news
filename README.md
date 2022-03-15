@@ -1,15 +1,15 @@
-# HATTER 🎩
+# Fresh News 📰
 
 >it's probably nothing
 
 ## TL;DR
 
-A Rabbithole discord bot for link curation.  ✨
+A Social Fresh discord bot for link curation.  ✨
 
 ## How it Works
 
-1. Upvote posts in by reacting with a specified emoji: 🥕
-2. Two 🥕 will trigger the bot to post into the specified channel (id supplied via env var)
+1. Upvote posts in by reacting with a specified emoji: 📰
+2. Two 📰 will trigger the bot to post into the specified channel (id supplied via env var)
 3. The community can use these votes to further curate the content 🤙
 
 ## Setup
